@@ -1,5 +1,5 @@
 # Xylem API Document Guidelines
-The [Xylem API Document Guidelines](Guidelines.md) are Xylem's internal company-wide API document guidelines.
+The [Xylem API Document Guidelines](Table-of-content.md) are Xylem's internal company-wide API document guidelines.
 Teams at Xylem typically reference this document when documenting APIs.
 They may additionally create documents specific to their team, adding further guidance or making adjustments as appropriate to their circumstances.
 
