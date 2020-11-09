@@ -1,2 +1,3 @@
 # Table of contents
-- [1. Methods]((/Xylem APIs Methods.md))
+- [Methods](/XylemAPIsMethods.md)
+- [Request Structure](/RequestStructure.md)
