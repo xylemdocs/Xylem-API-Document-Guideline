@@ -1,4 +1,4 @@
-# Structure
+# Request Structure
 
 Steps:
 1. The API title must have a self-explantory title. [Use Heading 2]
