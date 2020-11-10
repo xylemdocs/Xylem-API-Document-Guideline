@@ -1,9 +1,20 @@
-# Request Structure
+# Structure
 
-Steps:
-1. The API title must have a self-explantory title. [Use Heading 2]
-2. The API Page Must start with higlighting the API Method and Endpoints. [Use Heading 2]
-3. Write small description about the page. [Use Heading 2]
+1. The API title must have a self-explantory title.
+   
+   **For Example**:
+  
+   ![APItitle](/Images/1APITitle.png)
+2. The API Page Must start with higlighting the API Method and Endpoints.
+
+    **For Example**:
+    
+   ![APIMethodandEndpoints](/Images/1MethodandEndpoints.png.png)
+3. Write small description about the page.
+
+   **For Example**:
+    
+   ![smalldescription](/Images/2SmallDescription.png)
 4. If necessary, write prerequisites. [Use Heading 2]
 5. Show the details sample request. [Use Heading 2]
 6. Show the request example. [Use Heading 2]
