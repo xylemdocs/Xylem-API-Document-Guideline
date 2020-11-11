@@ -5,18 +5,30 @@
    **For Example**:
   
    ![APItitle](/Images/1APITitle.png)
+   
 2. The API Page Must start with higlighting the API Method and Endpoints.
 
     **For Example**:
     
    ![APIMethodandEndpoints](/Images/1MethodandEndpoints.png.png)
+   
 3. Write small description about the page.
 
    **For Example**:
     
    ![smalldescription](/Images/2SmallDescription.png)
-4. If necessary, write prerequisites. [Use Heading 2]
-5. Show the details sample request. [Use Heading 2]
+4. If necessary, write prerequisites.
+   
+    **For Example**:
+    
+   ![Prerequisites](/Images/3prerequisites.png)
+   
+5. Show the details of sample request.
+
+   **For Example**:
+    
+   ![Prerequisites](/Images/4samplerequest.png) 
+
 6. Show the request example. [Use Heading 2]
 7. Use bullets for avilable headers.
 8. Explain each body parameters request. The request body parameters table consist of 4 columns:
