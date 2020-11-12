@@ -37,6 +37,7 @@
    ![Requestcode](/Images/Examplerequest.png)
 
 7. Explain each request parameters in Request Parameter section.
+
    Types of Parameters that Xylem uses:
    - Header Parameters
    - Path Parameters
@@ -47,11 +48,13 @@
     
      ![Requestparameter](/Images/Requestparameter.png)
     
-8. Explain each body parameters request. The request body parameters table consist of 4 columns:
-  - Name
-  - Data type
-  - Required
-  - Description
+8. Explain each request body parameters.
+
+   The request body parameters table consist of 4 columns:
+    - Name
+    - Data type
+    - Required
+    - Description
   
     **For Example**:
     
