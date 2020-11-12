@@ -17,6 +17,7 @@
    **For Example**:
     
    ![smalldescription](/Images/2SmallDescription.png)
+   
 4. If necessary, write prerequisites.
    
     **For Example**:
@@ -25,12 +26,11 @@
    
 5. Show sample request with detailed endpoints.
 
-   **For Example**:
+    **For Example**:
     
-   ![Samplerequest](/Images/4samplerequest.png) 
+    ![Samplerequest](/Images/4samplerequest.png) 
 
 6. Provide example of request code.
-
 
     **For Example**:
     
@@ -43,9 +43,9 @@
    - Body Parameters
    - Query Parameters
    
-    **For Example**:
+     **For Example**:
     
-   ![Requestparameter](/Images/Requestparameter.png)
+     ![Requestparameter](/Images/Requestparameter.png)
     
 8. Explain each body parameters request. The request body parameters table consist of 4 columns:
   - Name
@@ -53,25 +53,25 @@
   - Required
   - Description
   
-   **For Example**:
+    **For Example**:
     
-   ![Table](/Images/Tabledetail.png)
+    ![Table](/Images/Tabledetail.png)
   
  9. Provide example of response code.
     
     **For Example**:
     
-   ![Response](/Images/Exampleresponse.png)
+    ![Response](/Images/Exampleresponse.png)
  
  10. In response parameters table, explain only parameters that are not explained in the request table.
  
-      **For Example**:
+     **For Example**:
     
-   ![ResponeParameter](/Images/Requestparameter.png)
+     ![ResponeParameter](/Images/Requestparameter.png)
  
  
  11. The Status codes table consist of HTTP status code and message.
  
      **For Example**:
     
-   ![ResponeParameter](/Images/statuscode.png)
+     ![ResponeParameter](/Images/statuscode.png)
