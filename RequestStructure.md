@@ -23,19 +23,55 @@
     
    ![Prerequisites](/Images/3prerequisites.png)
    
-5. Show the details of sample request.
+5. Show sample request with detailed endpoints.
 
    **For Example**:
     
-   ![Prerequisites](/Images/4samplerequest.png) 
+   ![Samplerequest](/Images/4samplerequest.png) 
 
-6. Show the request example. [Use Heading 2]
-7. Use bullets for avilable headers.
+6. Provide example of request code.
+
+
+    **For Example**:
+    
+   ![Requestcode](/Images/Examplerequest.png)
+
+7. Explain each request parameters in Request Parameter section.
+   Types of Parameters that Xylem uses:
+   - Header Parameters
+   - Path Parameters
+   - Body Parameters
+   - Query Parameters
+   
+    **For Example**:
+    
+   ![Requestparameter](/Images/Requestparameter.png)
+    
 8. Explain each body parameters request. The request body parameters table consist of 4 columns:
   - Name
   - Data type
   - Required
   - Description
- 9. Show the response example. [Use Heading 2]
+  
+   **For Example**:
+    
+   ![Table](/Images/Tabledetail.png)
+  
+ 9. Provide example of response code.
+    
+    **For Example**:
+    
+   ![Response](/Images/Exampleresponse.png)
+ 
  10. In response parameters table, explain only parameters that are not explained in the request table.
+ 
+      **For Example**:
+    
+   ![ResponeParameter](/Images/Requestparameter.png)
+ 
+ 
  11. The Status codes table consist of HTTP status code and message.
+ 
+     **For Example**:
+    
+   ![ResponeParameter](/Images/statuscode.png)
