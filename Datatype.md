@@ -1,3 +1,8 @@
+[Home](/README.md) > [Table of Contents](/Table-of-content.md)
+
+# API Data Types
+
+
 Type    | Description                                                                                                                | Example
 ------- | -------------------------------------------------------------------------------------------------------------------------- | -------------
 number  | Any number. This includes numbers with or without decimals.                                                                | 10011.15 or 1500
