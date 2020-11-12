@@ -1,5 +1,6 @@
-# API Data Types
+[Home](/Home.md) > [Table of Contents](/Table-of-content.md)
 
+# API Data Types
 
 Type    | Description                                                                                                                | Example
 ------- | -------------------------------------------------------------------------------------------------------------------------- | -------------
