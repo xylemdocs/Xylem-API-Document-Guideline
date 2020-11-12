@@ -1,5 +1,3 @@
-[Home](/README.md) > [Table of Contents](/Table-of-content.md)
-
 # API Data Types
 
 
