@@ -1,3 +1,6 @@
+[Home](/Home.md) > [Table of Contents](/Table-of-content.md)
+
+
 # Structure
 
 1. The API title must have a self-explantory title.
