@@ -1,7 +1,7 @@
 [Home](/Home.md) > [Table of Contents](/Table-of-content.md)
 
 
-# Supported Methods
+# Status Code
 
 
 HTTP Status Code  | Message                                                                                                                | HTTP Version
